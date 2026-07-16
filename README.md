@@ -1,8 +1,7 @@
 # Locate-Anything-Demo
 This project evaluates NVIDIA’s LocateAnything-3B, a vision-language grounding model that locates objects in images using natural-language prompts. It was tested on street, office, grocery store, and clothing store scenes with different levels of visual complexity.
 
-Experiments
-
+##Experiments
 The evaluation included:
 - Multi-category object detection
 - Dense-scene detection
