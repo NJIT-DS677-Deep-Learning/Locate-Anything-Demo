@@ -16,5 +16,5 @@ Workflow
 - Extract the predicted bounding boxes
 - Display the results as visual annotations
   
-Key Findings
+# Key Findings
 Performance was affected by scene complexity, object size, prompt wording, image cropping, and GPU-memory limits. More specific prompts and focused image regions generally improved detection in crowded scenes.
